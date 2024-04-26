@@ -16,3 +16,10 @@ body{
 .container{
     height: 100vh;
 }
+.container_botao{
+    background-color: var(--cor-de-fundo);
+    border-radius: 5px;
+    padding: 1em;
+    color: var(--cinza-secundario);
+    display: block;
+}
