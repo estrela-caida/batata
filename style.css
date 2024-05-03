@@ -24,11 +24,16 @@ body{
     padding: 1em;
     color: var(--cinza-secundario);
     display: block;
+    text-decoration: none;
+    margin-bottom: 1em;
 }
 .botao_secundario{
  background-color: transparent;   
  border: 2px solid var(--branco-principal);
 }
 .conteiner_imagem{
-    margin: 1em ;
+    margin: 1em 0 2em 0;
+}
+.conteiner_caixa{
+    margin: 0 6em;
 }
