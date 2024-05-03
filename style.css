@@ -33,9 +33,9 @@ body{
  background-color: transparent;   
  border: 2px solid var(--branco-principal);
 }
-.conteiner_imagem{
+.container_imagem{
     margin: 1em 0 2em 0;
 }
-.conteiner_caixa{
+.container_caixa{
     margin: 0 6em;
 }
